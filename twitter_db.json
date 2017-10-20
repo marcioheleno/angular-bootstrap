@@ -1,0 +1,61 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "user": "Márcio012",
+      "titulo": "Titulo do Twitte",
+      "name": "Márcio Heleno",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, eius eligendi exercitationem facere iure molestias vero. Enim magni ullam veritatis!",
+      "like": [
+        "Márcio Heleno"
+      ],
+      "avatar": "../assets/imagens/marcio.png"
+    },
+    {
+      "id": 2,
+      "user": "Ana Letícia",
+      "titulo": "Titulo do Twitte",
+      "name": "João das Cordas",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, eius eligendi exercitationem facere iure molestias vero. Enim magni ullam veritatis!",
+      "like": [
+        "Márcio Heleno",
+        "Márcio Heleno"
+      ],
+      "avatar": "../assets/imagens/ana.png"
+    },
+    {
+      "id": 3,
+      "user": "Marina",
+      "titulo": "Titulo do Twitte",
+      "name": "Maria Machado Free",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, eius eligendi exercitationem facere iure molestias vero. Enim magni ullam veritatis!",
+      "like": [
+        "Sr_Formiga",
+        "Charllir",
+        "Márcio Heleno"
+      ],
+      "avatar": "../assets/imagens/marina.jpg"
+    },
+    {
+      "id": 4,
+      "user": "Levi_Manicraft",
+      "titulo": "Titulo do Twitte",
+      "name": "Levi Pessoa",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, eius eligendi exercitationem facere iure molestias vero. Enim magni ullam veritatis!",
+      "like": [
+        "Márcio Heleno",
+        "Márcio Heleno"
+      ],
+      "avatar": "../assets/imagens/marcio.png"
+    },
+    {
+      "id": 5,
+      "user": "Fulano De Tal",
+      "titulo": "Titulo do Twitte",
+      "name": "Fulano",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, eius eligendi exercitationem facere iure molestias vero. Enim magni ullam veritatis!",
+      "like": [],
+      "avatar": "../assets/imagens/marcio.png"
+    }
+  ]
+}

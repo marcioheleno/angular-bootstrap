@@ -1,0 +1,15 @@
+<div class="col-lg-4">
+  <div class="card" style="width: 20rem;">
+    <div class="card-body">
+      <h4 class="card-title">{{ tweet.titulo}}</h4>
+      <h6 class="card-subtitle mb-2 text-muted">{{ tweet.name }}</h6>
+      <p class="card-text">{{ tweet.body }}</p>
+      <button type="button" class="btn btn-outline-success" (click)="likeTweet(tweet)">
+        Like
+      </button>
+      <button type="button" class="btn">
+        {{ tweet.like.length }}
+      </button>
+    </div>
+  </div>
+</div>
